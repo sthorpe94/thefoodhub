@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href='dist/css/bootstrap.css' rel='stylesheet'>
+	<link href='dist/css/main.css' rel='stylesheet'>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="js/jquery-1.11.3.min.js"></script>
+  	<script src="js/main.js"></script>
+</head>
+
+<body>
+
+      <div class="row">
+        <div class="large-12 columns">
+          <div class="nav-bar right">
+           <ul class="button-group">
+             <li><a href="#" class="button">Link 1</a></li>
+             <li><a href="#" class="button">Link 2</a></li>
+             <li><a href="#" class="button">Link 3</a></li>
+             <li><a href="#" class="button">Link 4</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+	<div class="nav">
+		<div class="container">
+			<ul>
+				<li>Home</li>
+				<li>About</li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="jumbotron">
+		<div class="container">
+			<h1>
+				The Food Room
+			</h1>
+			<p>
+				The place to go for new and interesting food ideas
+			</p>
+		</div>
+	</div>
+
+	<div class="Discover">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<h3>Vegan</h3>
+					<p>Explore new and different foods suitable for a vegan diet.</p>
+					<p>
+						<a href="#">Have a look at some recipies here</a>
+					</p>
+				</div>
+
+				<div class="col-md-6">
+					<h3>Vegetarian</h3>
+					<p>Explore new and different foods suitable for a Vegetarian diet.</p>
+					<p>
+						<a href="#">Have a look at some recipies here</a>
+					</p>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-6">
+					<h3>Healthy</h3>
+					<p>Explore new and different foods suitable for the health concious of you out there.</p>
+					<p>
+						<a href="#">Have a look at some recipies here</a>
+					</p>
+				</div>
+
+				<div class="col-md-6">
+					<h3>Quick</h3>
+					<p>Explore new and different foods which can be whipped up in a flash.</p>
+					<p>
+						<a href="#">Have a look at some recipies here</a>
+					</p>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-6">
+					<h3>Desserts</h3>
+					<p>Discover new and different desserts that can be adapted for any number of people.</p>
+					<p>
+						<a href="#">Have a look at some recipies here</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>
